@@ -1,0 +1,11 @@
+{
+  "add": {
+    "doc": {
+      "id": "test-multiple",
+      "customm_test": [
+        "ENVELOPE(1, 2, 1, 0)",
+        "ENVELOPE(3, 4, 1, 0)"
+      ]
+    }
+  }
+}
